@@ -224,7 +224,7 @@ color: #494848;
 .signlanguage1 {
     position: absolute;
     font-size: 22px;
-    font-style: normal;
+    font-style: normal; 
     margin-top: 40%;
     font-family: "Helvetica Neue", Helvetica, Arial, Verdana, Tahoma, sans-serif; 
     min-width: 300px;
