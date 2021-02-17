@@ -238,6 +238,14 @@ color: #494848;
     height: 600px;
 }
 
+.signlanguage-v2 {
+    display: flex;
+    background-color: #FBF8F5;
+    margin-top: 14%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
 .signlang {
 
     display: flex;
